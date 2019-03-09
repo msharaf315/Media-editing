@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: blue;
+}
+
+body {
+	background: url(download.jpg) no-repeat center center fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover; 
+                background-size: 100% 100%;
+
+            }
+    
+
+}
+
+#container { overflow: hidden; }
+#floated-imgs { float: right; }
+#floated-imgs img {display: block; }
